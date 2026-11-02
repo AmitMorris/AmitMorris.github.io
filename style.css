@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color:white;
+    font-family: sans-serif;
+}
+p{
+    border-style:outset;
+    background-color: pink;
+    color: white;
+}
+.other{
+    background-color: pink;
+    color: white;
+}
