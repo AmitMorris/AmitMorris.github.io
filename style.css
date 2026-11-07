@@ -1,5 +1,5 @@
 body{
-    background-color: aqua;
+    background-color: #5BCEFA;
 }
 h1{
     color:white;
@@ -7,10 +7,10 @@ h1{
 }
 p{
     border-style:outset;
-    background-color: pink;
+    background-color: #F5A9B8;
     color: white;
 }
 .other{
-    background-color: pink;
+    background-color: #F5A9B8;
     color: white;
 }
